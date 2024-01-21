@@ -10,4 +10,4 @@
 
 #### Copyright Notice
 
-©️ 2024 Jonathan Dinu. All Rights Reserved. Reproduction in part or whole of the text, images, and code is expressly prohibited. For permission to use the content please contact copyright@jonathandinu.com.
+©️ 2024 Jonathan Dinu. All Rights Reserved. Removal of this copyright notice or any reproduction in part or whole of the text, images, and/or code is expressly prohibited. For permission to use the content please contact copyright@jonathandinu.com.
