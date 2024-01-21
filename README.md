@@ -6,8 +6,6 @@
   - [Intro](jonathandinu.com)
 </details>
 
-![commenting in Google Colab](images/comment_in_colab.png)
-
 #### Copyright Notice
 
 ©️ 2024 Jonathan Dinu. All Rights Reserved. Removal of this copyright notice or any reproduction in part or whole of the text, images, and/or code is expressly prohibited. For permission to use the content please contact copyright@jonathandinu.com.
