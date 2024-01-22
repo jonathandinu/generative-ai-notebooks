@@ -1,6 +1,6 @@
 # Generative AI Notebooks
 
-| | |
+| Jupyter | Colab |
 |:---:|:--:|
 |[PyTorch for the Impatient or: Deep Learning is just a Bunch of Regressions](notebooks/pytorch_for_the_impatient.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jonathandinu/generative-ai-notebooks/blob/main/notebooks/pytorch_for_the_impatient.ipynb)|
 
