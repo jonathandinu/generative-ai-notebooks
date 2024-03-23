@@ -1,4 +1,4 @@
-"diffusers[torch]"
+diffusers [torch]
 transformers 
 torch
 torchvision
